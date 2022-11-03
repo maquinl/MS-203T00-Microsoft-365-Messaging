@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab: Create connectors'
-    module: 'Module 1: test'
+    module: 'Module 1: testd'
 ---
 
 # Lab Introduction
