@@ -4,7 +4,7 @@ lab:
     module: 'Module 1: test'
 ---
 
-# Lab: Deploying Azure Resource Manager templates
+# Lab: Create connectors
 # Student lab manual
 
 ## Lab scenario
