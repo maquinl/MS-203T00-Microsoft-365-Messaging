@@ -4,11 +4,6 @@ lab:
     module: 'Module 1: test'
 ---
 
-# Lab: Create connectors
-# Student lab manual
-
-## Lab scenario
-
 # Lab Introduction
 
 Adatum Corporation runs their legacy applications (such as Microsoft Exchange Server 2019) in an on-premises deployment. However, they recently subscribed to Microsoft 365, thereby creating a hybrid deployment in which they must synchronize their on-premises and cloud deployments.
