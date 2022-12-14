@@ -2,7 +2,7 @@
 lab:
     title: 'Create Public Folders'
     learning_path: 'Learning Path 7: Manage recipient objects and resources in Microsoft 365'
-    Module: 'Module 2: Create and Manage Exchange Recipients'
+    module: 'Module 2: Create and Manage Exchange Recipients'
 ---
 
 # Lab 6 - Exercise 1 - Create and manage Public Folders

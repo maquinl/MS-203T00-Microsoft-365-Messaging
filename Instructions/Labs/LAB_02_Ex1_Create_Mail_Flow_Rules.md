@@ -2,7 +2,7 @@
 lab:
     title: 'Create mail flow rules'
     learning_path: 'Learning Path 2: Manage and troubleshoot mail flow in Microsoft 365'
-    module: 'Module 2: Troubleshoot mail flow"
+    module: 'Module 2: Troubleshoot mail flow'
 ---
 
 # Lab 2 - Exercise 1 – Create Mail Flow Rules
