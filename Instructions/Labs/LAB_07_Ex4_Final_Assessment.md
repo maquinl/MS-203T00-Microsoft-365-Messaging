@@ -1,8 +1,7 @@
 ---
 lab:
-    title: 'Lab 7: Manage a Hybrid Deployment'
-    Exercise: 'Exercise 4: Final Assessment - Troubleshoot your Hybrid Deployment'
-    Learning Path: 'Learning Path 8: Manage the hybrid deployment life cycle'
+    title: 'Lab 7: Final Assessment - Troubleshoot your Hybrid Deployment'
+    module: 'Learning Path 8: Manage the hybrid deployment life cycle'
 ---
 
 # Lab 7 - Exercise 4 – Final Assessment

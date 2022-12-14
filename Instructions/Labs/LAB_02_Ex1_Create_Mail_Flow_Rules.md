@@ -1,8 +1,7 @@
 ---
 lab:
-    title: 'Lab 2: Conditional Mail Routing'
-    Exercise: 'Exercise 1: Create mail flow rules'
-    Learning Path: 'Learning Path 2: Manage and troubleshoot mail flow in Microsoft 365'
+    title: 'Create mail flow rules'
+    module: 'Learning Path 2: Manage and troubleshoot mail flow in Microsoft 365'
 ---
 
 # Lab 2 - Exercise 1 – Create Mail Flow Rules

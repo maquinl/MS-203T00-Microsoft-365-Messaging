@@ -1,8 +1,7 @@
 ---
 lab:
-    title: 'Lab 6: Create Recipient Objects and Resources'
-    Exercise: 'Exercise 3: Create groups'
-    Learning Path: 'Learning Path 7: Manage recipient objects and resources in Microsoft 365'
+    title: 'Create groups'
+    module: 'Learning Path 7: Manage recipient objects and resources in Microsoft 365'
 ---
 
 # Lab 6 - Exercise 3 - Create Groups

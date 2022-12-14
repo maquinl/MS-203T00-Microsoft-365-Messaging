@@ -1,8 +1,7 @@
 ---
 lab:
-    title: 'Lab 3: Create Hygiene Filters'
-    Exercise: 'Exercise 1: Create Hygiene Filters'
-    Learning Path: 'Learning Path 3: Manage message security'
+    title: 'Create Hygiene Filters'
+    module: 'Learning Path 3: Manage message security'
 ---
 
 # Lab 3 - Exercise 1 - Create Hygiene Filters
