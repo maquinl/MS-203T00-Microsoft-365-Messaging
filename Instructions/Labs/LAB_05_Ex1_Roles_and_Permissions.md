@@ -1,3 +1,10 @@
+---
+lab:
+    title: 'Lab 5: Manage Roles and Permission Policies'
+    Exercise: 'Exercise 1: Manage Roles and Permission Policies'
+    Learning Path: 'Learning Path 6: Manage role-based permissions in Microsoft 365'
+---
+
 # Lab 5 - Exercise 1 - Manage Roles and Permission Policies
 
 In this exercise you will continue in your role as Holly Dickson, Adatum’s

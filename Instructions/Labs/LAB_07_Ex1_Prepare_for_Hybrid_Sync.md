@@ -1,3 +1,10 @@
+---
+lab:
+    title: 'Lab 7: Manage a Hybrid Deployment'
+    Exercise: 'Exercise 1: Prepare Azure AD for a Hybrid Deployment'
+    Learning Path: 'Learning Path 8: Manage the hybrid deployment life cycle'
+---
+
 # Lab 7 - Exercise 1 - Prepare Azure AD for Hybrid Synchronization
 
 In this lab you will continue in your role as Holly Dickson, Adatum’s Messaging

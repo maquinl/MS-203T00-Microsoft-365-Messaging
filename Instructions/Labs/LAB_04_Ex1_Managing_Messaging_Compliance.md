@@ -1,3 +1,10 @@
+---
+lab:
+    title: 'Lab 4: Manage Messaging Compliance'
+    Exercise: 'Exercise 1: Manage Messaging Compliance'
+    Learning Path: 'Learning Path 4: Manage Messaging Compliance in Microsoft 365'
+---
+
 # Lab 4 - Exercise 1 – Managing Messaging Compliance
 
 In this lab you will continue in your role as Holly Dickson, Adatum’s Messaging
