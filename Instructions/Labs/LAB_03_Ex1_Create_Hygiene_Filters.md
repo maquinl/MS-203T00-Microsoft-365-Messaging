@@ -1,7 +1,8 @@
 ---
 lab:
     title: 'Create Hygiene Filters'
-    module: 'Learning Path 3: Manage message security'
+    learning_path: 'Learning Path 3: Manage message security'
+    module: 'Module 2: Manage anti-malware and anti-spam policies'
 ---
 
 # Lab 3 - Exercise 1 - Create Hygiene Filters

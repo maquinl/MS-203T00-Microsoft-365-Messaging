@@ -1,7 +1,8 @@
 ---
 lab:
     title: 'Prepare Azure AD for a Hybrid Deployment'
-    module: 'Learning Path 8: Manage the hybrid deployment life cycle'
+    learning_path: 'Learning Path 8: Manage the hybrid deployment life cycle'
+    module: 'Module 2: Plan and configure a hybrid deployment using the Hybrid Configuration Wizard'
 ---
 
 # Lab 7 - Exercise 1 - Prepare Azure AD for Hybrid Synchronization

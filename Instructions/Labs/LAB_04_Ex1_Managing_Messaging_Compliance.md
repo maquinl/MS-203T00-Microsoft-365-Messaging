@@ -1,7 +1,8 @@
 ---
 lab:
     title: 'Manage Messaging Compliance'
-    module: 'Learning Path 4: Manage Messaging Compliance in Microsoft 365'
+    learning_path: 'Learning Path 4: Manage Messaging Compliance in Microsoft 365'
+    module: 'Module 4: Manage content search'
 ---
 
 # Lab 4 - Exercise 1 – Managing Messaging Compliance

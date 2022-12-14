@@ -1,8 +1,8 @@
 ---
 lab:
     title: 'Final Assessment - Troubleshoot your Hybrid Deployment'
-    learning_path: 'Learning Path 8: Manage the hybrid deployment life cycle'
-    module: 'Run advanced mailbox migrations'
+    learning_path: 'Learning Path 9: Manage mailbox migrations'
+    module: 'Module 4: Run advanced mailbox migrations'
 ---
 
 # Lab 7 - Exercise 4 – Final Assessment

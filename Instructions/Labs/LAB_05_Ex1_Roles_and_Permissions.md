@@ -1,7 +1,8 @@
 ---
 lab:
     title: 'Manage Roles and Permission Policies'
-    module: 'Learning Path 6: Manage role-based permissions in Microsoft 365'
+    learning_path: 'Learning Path 6: Manage role-based permissions in Microsoft 365'
+    module: 'Module 3: Analyze role-based permissions'
 ---
 
 # Lab 5 - Exercise 1 - Manage Roles and Permission Policies

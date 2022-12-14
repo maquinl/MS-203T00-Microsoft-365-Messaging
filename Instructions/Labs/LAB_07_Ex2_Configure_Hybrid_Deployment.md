@@ -1,7 +1,8 @@
 ---
 lab:
     title: 'Configure your Hybrid Deployment'
-    module: 'Learning Path 8: Manage the hybrid deployment life cycle'
+    learning_path: 'Learning Path 8: Manage the hybrid deployment life cycle'
+    module: 'Module 4: Implement advanced hybrid functionality'
 ---
 
 # Lab 7 - Exercise 2 - Configure Your Hybrid Deployment

@@ -1,7 +1,8 @@
 ---
 lab:
     title: 'Create Connectors'
-    module: '[Learning Path 1: Manage the transport pipeline in Microsoft 365](https://learn.microsoft.com/en-us/training/paths/manage-transport-pipeline-microsoft-365/?azure-portal=true)'
+    learning path: '[Learning Path 1: Manage the transport pipeline in Microsoft 365](https://learn.microsoft.com/en-us/training/paths/manage-transport-pipeline-microsoft-365/?azure-portal=true)'
+    module: 'Module 2: Configure message transport'
 ---
 
 # Lab Introduction
