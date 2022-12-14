@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab: Create connectors'
+    title: 'Lab 01: Create connectors'
     Learning Path: 'Learning Path 1: Manage the transport pipeline in Microsoft 365'
     Module: 'Module 2: Configure message transport'
 ---
