@@ -1,10 +1,11 @@
 # Lab 1 – Lab Introduction
 
-Adatum Corporation runs their legacy applications (such as Microsoft Exchange Server 2019) in an on-premises deployment. However, they recently subscribed to Microsoft 365, thereby creating a hybrid deployment in which they must synchronize their on-premises and cloud deployments.
+Adatum Corporation runs their legacy applications (such as Microsoft Exchange Server 2019) in an on-premises deployment. However, they recently subscribed to Microsoft 365, thereby creating a hybrid deployment in which they must synchronize their on-premises and cloud deployment.
 
-Throughout the labs in this course, you will take on the persona of Holly Dickson, Adatum's Messaging Administrator. You have been tasked with integrating Adatum's on-premises Exchange environment with Microsoft 365 and Exchange Online. Adatum's project team has decided to implement Microsoft 365 in a pilot project that will not only provide them with experience using the product, but also enable them to match their messaging requirements with the Microsoft 365 feature set.
+Throughout the labs in this course, you will take on the persona of Holly Dickson, Adatum's Messaging Administrator. You have been tasked with integrating Adatum's on-premises Exchange environment with Microsoft 365 and Exchange Online. Adatum's project team has decided to implement Microsoft 365 in a pilot project that will not only provide them with experience using the product, but also enable them to match their messaging requirements with the Microsoft 365 feature sets.
 
 Your instructor will provide guidance on how to obtain your Microsoft 365 credentials in your lab-hosted environment. You will use these credentials throughout the remaining labs in this course.
+
 
 **WWL Tenants - Terms of Use**
 If you are being provided with a tenant as a part of an instructor-led training delivery, please note that the tenant is made available for the purpose of supporting the hands-on labs in the instructor-led training. 
@@ -13,7 +14,7 @@ Tenants must not be converted to a paid subscription. Tenants obtained as a part
 
 In your lab environment, your lab hosting provider has already:
 
-- Deployed the trial tenant
+- Deployed the trial tenan t
 - Created a default tenant administrator account (known as the MOD Administrator)
 - Created 9 additional user accounts
 - Created a custom Microsoft 365 domain in Microsoft Azure
@@ -124,6 +125,7 @@ Adatum has Microsoft Exchange Server 2019 installed on the Exchange Server VM (L
     **IMPORTANT:** By selecting **Finish**, you will receive an **Error** message. You were purposely instructed to select **Finish** so that you can see this error, which indicates that the **Default Frontend LON-EX1** receive connector is already configured to accept all available IPv4 addresses (in other words, IP addresses 0.0.0.0 through 255.255.255.255) for Port 25. **Therefore, this new receive connector that you are creating must have a unique combination of IP address and port number that is different from any existing receive connectors.**
 
     Select **OK** to close the **Error** message.
+    
 
 13. This returns you to the **New receive connector** window. Select the **pencil (edit)** icon on the menu bar to edit the IP address and port number that will be linked to your new receive connector.
 
